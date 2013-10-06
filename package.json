@@ -1,0 +1,23 @@
+{
+  "name": "MDM",
+  "version": "0.0.1",
+  "description": "A SPA to interact with a REST service using Backbone and Require",
+  "main": "build/index.html",
+  "scripts": {
+    "test": "tests/test.js"
+  },
+  "keywords": [
+    "MDM",
+    "REST",
+    "Backbone",
+    "Require"
+  ],
+  "author": "Aditya Sharat",
+  "license": "Sapient",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.4"
+  }
+}
